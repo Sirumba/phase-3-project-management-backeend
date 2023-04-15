@@ -58,12 +58,10 @@ This application is a simple web API that allows users to:
 
 - Register a new account.
 - Log in to existing account.
-- Create TASK items.
-- Update individual TASK items.
-- View all TASK items.
-- Organize Task items by status
-- Filter TASK items by date.
-- Delete a TASK item.
+- Create PROJECT items.
+- Update individual PROJECT items.
+- View all PROJECT items.
+- Delete a PROJECT item.
 
 ### MODELS
 Database schema definitions.
