@@ -30,7 +30,7 @@ You can setup this repository by following this manual
 
 1. Clone the repository
     ```{shell}
-   git clone https://github.com/sainamercy/task-manager-backend-sinatra.git
+   git clone git@github.com:Sirumba/phase-3-project-management-backeend.git
    ```
 2. Ensure the ruby gems are setup in your machine
     ```{shell}
