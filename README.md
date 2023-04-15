@@ -21,7 +21,6 @@ This application has been built with the following tools:
 - **SQlite3 `v1.6`**
 - **ActiveRecord `v7.0.4`**
 - **Rake `v13.0.6`**
-- **Puma `v6.1`**
 - **rerun `v0.14`**
 - **Sinatra `v3.0.5`**
 
