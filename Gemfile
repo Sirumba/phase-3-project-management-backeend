@@ -1,4 +1,4 @@
-ruby File.read('./config/.ruby-version').strip
+ruby File.read('.ruby-version').strip
 source "https://rubygems.org"
 
 
